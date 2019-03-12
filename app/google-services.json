@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "491399150692",
+    "firebase_url": "https://countainer-sales-1a2b3.firebaseio.com",
+    "project_id": "countainer-sales-1a2b3",
+    "storage_bucket": "countainer-sales-1a2b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491399150692:android:749ac46462e0acdc",
+        "android_client_info": {
+          "package_name": "com.deva.android.countainersales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491399150692-6n45nge0o2ibh4od0g87bmd7re1c2q93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpgLh-QDBUkSNl2pofzoSOqhe0N6Kb7t0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

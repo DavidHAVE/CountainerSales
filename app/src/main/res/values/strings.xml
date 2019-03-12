@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Countainer Sales</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+
+    <string name="company_description">
+        PT Global Perkasa Mekanindo merupakan sebuah usaha yang bergerak di bidang modifikasi container, adapun produk yang disediakan adalah Office Container,
+        Cafe Container, Minimarket Container, Toilet/WC Container, dan masih banyak lagi yang lainnya. Mengapa kami menawarkan modifikasi container untuk bisnis anda?
+        Karena banyak benefit yang anda dapatkan dari menggunakan container yang di modifikasi.
+    </string>
+    <string name="company_description2">
+        Salah satunya adalah Container dapat dimodifikasi menjadi sebuah ruangan yang memiliki banyak fungsi (multifungsi) sesuai dengan kebutuhan yang anda inginkan,
+        Proses modifikasi container pun dapat dilakukan dalam waktu singkat, serta masa pakai container yang cukup lama, hingga harga jual kembali container yang
+        memiliki nilai ekonomis tinggi meski sudah digunakan.
+    </string>
+
+    <string name="hello">
+<![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;font-size:14px">
+<p>
+   PT Global Perkasa Mekanindo merupakan sebuah usaha yang bergerak di bidang modifikasi container, adapun produk yang disediakan adalah Office Container,
+   Cafe Container, Minimarket Container, Toilet/WC Container, dan masih banyak lagi yang lainnya. Mengapa kami menawarkan modifikasi container untuk bisnis anda?
+   Karena banyak benefit yang anda dapatkan dari menggunakan container yang di modifikasi.</p>
+   <p>Salah satunya adalah Container dapat dimodifikasi menjadi sebuah ruangan yang memiliki banyak fungsi (multifungsi) sesuai dengan kebutuhan yang anda inginkan,
+        Proses modifikasi container pun dapat dilakukan dalam waktu singkat, serta masa pakai container yang cukup lama, hingga harga jual kembali container yang
+        memiliki nilai ekonomis tinggi meski sudah digunakan.</p>
+ </body>
+</html>
+]]>
+</string>
+</resources>
